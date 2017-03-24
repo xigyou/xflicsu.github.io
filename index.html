@@ -1,37 +1,14 @@
 ---
-layout: default
+layout: default 
 title: Home
 ---
-
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<img src="{{site.baseurl}}public/image.jpg" width=150 style="float:right margin-left=10cm"> 
+<p>
+I am currently a postdoctoral fellow in Dr. Bing Ren's laboratory, at Ludwig Institute for Cancer Research San Diego. I graduated from the Bioinformatics program at University of Michigan, Ann Arbor. My thesis advisor is <a href="http://sartorlab.ccmb.med.umich.edu/">Maureen Sartor</a>
+</p>
+<hr>
+<h3> Education</h3>
+<p>Ph.D., Bioinformatics, <a href="http://umich.edu/">University of Michigan</a>, Ann Arbor, 2016</p>
+    <p>M.A., Statistics, <a href="http://umich.edu/">University of Michigan</a>, Ann Arbor, 2016</p>
+<p>B.S., Biotechnology, <a href="http://english.pku.edu.cn/">Peking University</a>, Beijing, 2010 </p>
+<hr>

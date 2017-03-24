@@ -10,12 +10,12 @@ permalink:        pretty
 # Setup
 title:            Yanxiao Zhang
 tagline:          'A Jekyll theme'
-description:      'Shawn.'
+description:      'Bioinformatics PostDoc @Bing Ren Lab'
 url:              http://shawnzhangyx.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Yanxiao Zhang'
   url:            https://twitter.com/mdo
 
 paginate:         5
