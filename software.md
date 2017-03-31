@@ -8,4 +8,4 @@ I developed in WZMU when I was a Master student.swDMR source code is hosted on [
 
 ### RCRDB
 RCRDB: An integrated transcriptional and post-transcriptional regulatory database for cycling RNAs.
-The manuscripts is under-modification. Website: (http://www.rcrdb.biols.ac.cn)
+The manuscripts is under-modification. Website: [RCRDB](http://www.rcrdb.biols.ac.cn)
