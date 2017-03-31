@@ -8,15 +8,15 @@ gems:
 permalink:        pretty
 
 # Setup
-title:            Yanxiao Zhang
+title:            Xianfeng Li
 tagline:          'Too little time'
-description:      'Bioinformatics PostDoc @Bing Ren Lab'
+description:      'Bioinformatics PhD @Zhong-Sheng Sun Lab'
 url:              http://shawnzhangyx.github.io
 baseurl:          /
 
 author:
-  name:           'Yanxiao Zhang'
-  url:            https://twitter.com/zhangyx.shawn
+  name:           'Xianfeng Li'
+  url:            https://www.researchgate.net/profile/Xianfeng_Li4
 
 paginate:         5
 
@@ -24,6 +24,6 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/shawnzhangyx/shawnzhangyx.github.io
+  repo:           https://github.com/xflicsu/xflicsu.github.io
 
 theme: jekyll-theme-dinky
