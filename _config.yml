@@ -25,3 +25,5 @@ version:          2.1.0
 
 github:
   repo:           https://github.com/shawnzhangyx/shawnzhangyx.github.io
+
+theme: jekyll-theme-dinky
